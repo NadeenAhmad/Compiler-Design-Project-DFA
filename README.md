@@ -11,5 +11,6 @@ Each state is followed by its 1 transitions and 0 transitions. The hashtag symbo
 <p align="center">
   <img src="https://i.ibb.co/HPscSK0/Capture.jpg" width="300" >
 </p>
-Example input string: 10101110   
+Example input string: 10101110  
+<br> 
 Output: True     
