@@ -14,5 +14,4 @@ Each state is followed by its 1 transitions and 0 transitions. The hashtag symbo
 Example input string: 10101110  
 <br> 
 Output: True     
-<br>
 ### **Project#2: NFA**
