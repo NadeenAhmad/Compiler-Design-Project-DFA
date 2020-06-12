@@ -1,4 +1,4 @@
-# **Compiler Design Projects** 
+# **Compiler Design Project: DFA** 
 ## **This repo contains eight projects about various topics in compiler design:**
 ### **Project#1: DFA**
 The aim of this project is to implement a deterministic finite automaton (DFA) abstract data
